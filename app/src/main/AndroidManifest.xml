@@ -25,6 +25,8 @@
 				<category android:name="android.intent.category.BROWSABLE" />
 				<data android:scheme="https" android:host="twitter.com" android:pathPattern=".*" />
 				<data android:scheme="https" android:host="mobile.twitter.com" android:pathPattern=".*" />
+				<data android:scheme="https" android:host="vxtwitter.com" android:pathPattern=".*" />
+				<data android:scheme="https" android:host="fxtwitter.com" android:pathPattern=".*" />
 
 			</intent-filter>
 
